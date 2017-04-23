@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="Jars/jetty-distribution-9.3.11.v20160721/start.jar"/>
+	<classpathentry kind="lib" path="Jars/jetty-distribution-9.3.11.v20160721/lib/cdi-core-9.3.11.v20160721.jar"/>
+	<classpathentry kind="lib" path="Jars/jetty-distribution-9.3.11.v20160721/lib/cdi-servlet-9.3.11.v20160721.jar"/>
+	<classpathentry kind="lib" path="Jars/jetty-distribution-9.3.11.v20160721/lib/jetty-alpn-server-9.3.11.v20160721.jar"/>
+	<classpathentry kind="lib" path="Jars/jetty-distribution-9.3.11.v20160721/lib/jetty-annotations-9.3.11.v20160721.jar"/>
+	<classpathentry kind="lib" path="Jars/jetty-distribution-9.3.11.v20160721/lib/jetty-http-9.3.11.v20160721.jar"/>
+	<classpathentry kind="lib" path="Jars/jetty-distribution-9.3.11.v20160721/lib/jetty-jmx-9.3.11.v20160721.jar"/>
+	<classpathentry kind="lib" path="Jars/jetty-distribution-9.3.11.v20160721/lib/jetty-security-9.3.11.v20160721.jar"/>
+	<classpathentry kind="lib" path="Jars/jetty-distribution-9.3.11.v20160721/lib/jetty-server-9.3.11.v20160721.jar"/>
+	<classpathentry kind="lib" path="Jars/jetty-distribution-9.3.11.v20160721/lib/jetty-servlet-9.3.11.v20160721.jar"/>
+	<classpathentry kind="lib" path="Jars/jetty-distribution-9.3.11.v20160721/lib/jetty-util-9.3.11.v20160721.jar"/>
+	<classpathentry kind="lib" path="Jars/jetty-distribution-9.3.11.v20160721/lib/servlet-api-3.1.jar"/>
+	<classpathentry kind="lib" path="Jars/jetty-distribution-9.3.11.v20160721/lib/jetty-xml-9.3.11.v20160721.jar"/>
+	<classpathentry kind="lib" path="Jars/jetty-distribution-9.3.11.v20160721/lib/jetty-io-9.3.11.v20160721.jar"/>
+	<classpathentry kind="lib" path="Jars/sqlite-jdbc-3.8.11.2.jar"/>
+	<classpathentry kind="lib" path="Jars/json-simple-1.1.jar"/>
+	<classpathentry kind="lib" path="Jars/mysql-connector-java-5.1.39-bin.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
